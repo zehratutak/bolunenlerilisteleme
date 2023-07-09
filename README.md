@@ -1,6 +1,7 @@
 # bolunenlerilisteleme
 
 string numbers1, numbers2, numbers3, numbers4, numbers5 = "";
+
 //her bölen için ayrı bir değişken tanımlayıp türünü string olarak belirledik.
 
     void KacarKacar(int ilksayi, int ikincisayi)
