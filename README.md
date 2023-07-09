@@ -55,4 +55,3 @@ string numbers1, numbers2, numbers3, numbers4, numbers5 = "";
         KacarKacar(1, 100);
         //aralığı dilediğimiz gibi değiştirebiliriz. işimiz bitti!
     }
-}
